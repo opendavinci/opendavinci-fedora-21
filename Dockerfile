@@ -44,4 +44,4 @@ RUN yum -y install \
     tar \
     wget
 
-RUN yum -y install gdb
+RUN yum -y install gdb-gdbserver
