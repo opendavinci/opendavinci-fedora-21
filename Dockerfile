@@ -44,3 +44,4 @@ RUN yum -y install \
     tar \
     wget
 
+RUN yum -y install gdb
